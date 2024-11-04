@@ -9,24 +9,8 @@
 <p align="center">---------------------------------------------------------------------------</p>
 <p align="center">© 2024 银国时代工作室 (SL Studio). 保留所有权利</p>
 <p>放几个链接在这</p>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .blue-button {
-            background-color: #007BFF; /* 蓝色背景 */
-            color: white; /* 白色文字 */
-            padding: 10px 20px; /* 内边距 */
-            border: none; /* 无边框 */
-            border-radius: 5px; /* 圆角 */
-            cursor: pointer; /* 鼠标指针 */
-            font-size: 16px; /* 字体大小 */
-        }
-        .blue-button:hover {
-            background-color: #0056b3; /* 悬停时变深 */
-        }
-    </style>
-</head>
-<body>
 
-<a href="(https://github.com/xiaosuyyds/MuRainBot2)" class="blue-button">点击我</a>
+[[MRB2]](https://github.com/xiaosuyyds/MuRainBot2)
+
+[[Lagrange]](https://github.com/LagrangeDev/Lagrange.Core)
+
